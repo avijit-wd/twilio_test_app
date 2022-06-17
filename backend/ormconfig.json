@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "avijit@440",
+  "database": "node_typescript",
+  "entities": ["src/entity/*.ts"],
+  "logging": false,
+  "synchronize": true
+}
